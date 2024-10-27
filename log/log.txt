@@ -1,0 +1,2 @@
+Sun Oct 27 2024 13:23:58 GMT-0600 (hora estándar central) 500 ::ffff:127.0.0.1 Anónimo data and hash arguments required
+Sun Oct 27 2024 13:26:34 GMT-0600 (hora estándar central) 500 ::ffff:127.0.0.1 Anónimo data and hash arguments required
